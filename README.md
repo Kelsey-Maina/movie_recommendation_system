@@ -66,7 +66,7 @@ The collaborative filtering approach uses the KNN algorithm to find similarities
    
 Content-based filtering incorporates movie features (such as genres) to provide recommendations, particularly useful for new users or items with little interaction history.
 
-EALUATION.
+EVALUATION.
 
 The system's performance is evaluated using metrics like RMSE and MAE, with a detailed analysis of the results to understand the strengths and weaknesses of different approaches.
 
