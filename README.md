@@ -56,7 +56,7 @@ Data preprocessing steps involve:
 
 - Conducting exploratory data analysis (EDA) to understand the distribution and patterns in the data.
   
-- MODELLING.
+MODELLING.
   
 1. Collaborative Filtering
 
