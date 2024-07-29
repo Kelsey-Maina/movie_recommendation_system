@@ -1,10 +1,10 @@
-MovieLens Recommendation System
+MOVIELENS RECOMMENDATION SYSTEM.
 
-Project Overview
+PROJECT OVERVIEW.
 
 This project aims to develop a personalized movie recommendation system using the MovieLens dataset. The system is designed to enhance user satisfaction and engagement by providing tailored movie recommendations based on user ratings and preferences.
 
-Table of Contents
+Table of Contents.
 
 - Business Understanding
 
